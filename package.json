@@ -12,7 +12,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+ssh://git@github.com/muhammadsemeer/express-oop.git"
+    "url": "git+ssh://git@github.com/muhammadsemeer/express-oops.git"
   },
   "keywords": [
     "express",
@@ -21,9 +21,9 @@
   "author": "Muhammad Semeer <muhammadsemeerali@gmail.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/muhammadsemeer/express-oop/issues"
+    "url": "https://github.com/muhammadsemeer/express-oops/issues"
   },
-  "homepage": "https://github.com/muhammadsemeer/express-oop#readme",
+  "homepage": "https://github.com/muhammadsemeer/express-oops#readme",
   "dependencies": {
     "express": "^4.17.3"
   },
