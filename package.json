@@ -1,10 +1,11 @@
 {
-  "name": "express-oop",
+  "name": "express-oops",
   "version": "0.0.1",
   "description": "Express.js in Class Based Approach",
   "main": "dist/index.js",
   "scripts": {
     "build": "tsc --build",
+    "prepublishOnly": "npm run build",
     "lint": "eslint ."
   },
   "repository": {
