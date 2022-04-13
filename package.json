@@ -15,7 +15,7 @@
     "express",
     "oop"
   ],
-  "author": "Muhammad Semeer",
+  "author": "Muhammad Semeer <muhammadsemeerali@gmail.com>",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/muhammadsemeer/express-oop/issues"
