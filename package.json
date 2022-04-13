@@ -1,6 +1,6 @@
 {
   "name": "express-oop",
-  "version": "1.0.0",
+  "version": "0.0.1",
   "description": "Express.js in Class Based Approach",
   "main": "dist/index.js",
   "scripts": {
