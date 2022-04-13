@@ -3,8 +3,10 @@
   "version": "0.0.3-0",
   "description": "Express.js in Class Based Approach",
   "main": "dist/index.js",
+  "types": "dist/index.d.ts",
   "scripts": {
     "build": "tsc --build",
+    "prebuild": "rm -r dist",
     "prepublishOnly": "npm run build",
     "lint": "eslint ."
   },
