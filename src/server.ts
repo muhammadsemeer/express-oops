@@ -18,7 +18,7 @@ export class Server {
             console.log(
                 `Server is running on ${this.port} port. Open http://localhost:${this.port}/ in your browser`
             );
-            cb();
+            cb?.();
         });
     }
 
